@@ -1,2 +1,2 @@
 # Adventure-works-database-with-PowerBI
-note: this project is not 100% finished! 
+In this repository you can find data visualisation with Power Bi of a dataset named Adevnture Works 
